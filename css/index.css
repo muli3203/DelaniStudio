@@ -1,5 +1,58 @@
-#overlay{
+.contain {
+    text-align: center;
+}
+
+#overlay {
     background-image: url("../img/h_img.jpg");
+    background-size: cover;
+    position: relative;
     width: 100%;
     height: 900px;
+    text-align: center;
+    color: white;
+    padding-top: 15%;
+}
+.services{
+    background-image: url("../img/s_image.jpg");
+    color: white;
+    height: 600px;
+    background-repeat: no-repeat;
+    padding-top: 7%;
+}
+.portfolio{
+    margin-bottom: 5%;
+}
+.contact{
+    background-image: url("../img/c_image.jpg");
+    height: 700px;
+    color: white;
+}
+.message{
+    height: 500px;
+    width: 800px;
+}
+h2 {
+    font-size: xx-large;
+}
+
+p {
+    font-weight: 700;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width:600px) {
+    #overlay {
+        width: 100%;
+    }
 }
