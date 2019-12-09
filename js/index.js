@@ -26,11 +26,11 @@ $(document).ready(function() {
 // hover
 
     $('#folio1').hover(function() {
-        $('.overlay0').slideToggle();
+        $('.overlay0',this).slideToggle("down");
     });
 
     $('#folio2').hover(function() {
-        $('.overlay1.slideToggle();
+        $('.overlay1').slideToggle();
     });
 
     $('#folio3').hover(function() {
