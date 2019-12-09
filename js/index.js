@@ -22,5 +22,9 @@ $(document).ready(function() {
     $(".prod-showing").click(function() {
         $(".prod-showing").toggle();
         $(".prod-hidden").toggle();    
-    })
-})
+    });
+// hover
+
+    $("#")
+
+});
