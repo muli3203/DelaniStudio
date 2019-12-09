@@ -26,7 +26,7 @@ $(document).ready(function() {
 // hover
 
     $('#folio1').hover(function() {
-        $('.overlay0',this).slideToggle("down");
+        $('.overlay0').slideToggle();
     });
 
     $('#folio2').hover(function() {
