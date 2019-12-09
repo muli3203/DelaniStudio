@@ -92,6 +92,13 @@ p {
     font-size: 20px;
 }
 
+.about {
+    font-size: 20px;
+}
+
+.services {
+    font-size: 20px;
+}
 .design-showing {
     display: none;
 }
