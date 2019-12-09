@@ -35,12 +35,41 @@ body {
     height: 700px;
     color: white;
 }
-
-.message {
-    height: 500px;
-    width: 800px;
+.name{
+    background: transparent;
+    width: 450px;
 }
 
+.required{
+    background: transparent;
+    width: 450px;
+}
+
+.message {
+    color:white;
+    height: 300px;
+    width: 900px;
+    padding-bottom: 250px;
+    background: transparent;
+}
+.container {
+    text-align: center;
+    align-items: center;
+    padding-top: 0;
+}
+#head {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 10%;
+    padding-top: 3%;
+    margin-top: -2%;
+}
+.card{
+    margin: 2%;
+}
 h2 {
     font-size: xx-large;
 }
@@ -49,20 +78,20 @@ p {
     font-weight: 700;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
 @media only screen and (max-width:600px) {
     #overlay {
         width: 100%;
     }
+}
+
+.col-md-4 {
+    font-size: 15px;
+}
+
+.wwd {
+    font-size: 20px;
+}
+
+.design-showing {
+    display: none;
 }
