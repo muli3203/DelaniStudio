@@ -1,15 +1,27 @@
 
 ## Author
 
-- Wendy Munyasi
+- Cheryl Wanja.
 
 ## Codebeat
 
-[![codebeat badge](https://codebeat.co/badges/c649d77a-f7a8-464a-a968-2704b86b321d)](https://codebeat.co/projects/github-com-wendymunyasi-delani-studio-ip3-master)
+[![codebeat badge](https://codebeat.co/badges/67195848-f570-46e5-af71-b8882ec3db90)](https://codebeat.co/projects/github-com-muli3203-delanistudio-master)
+
 
 ## Description
 
-This ia a website that deals with developing designs.
+Delani-Studio is a website host for a company that deals with creating domains and websites.We mostly deal with the following languages: 
+<li>JAVASCRIPT.
+<li> HTML5.
+<li>CSS3.
+<li>BOOTSTRAP.
+<li>JQUERY.
+
+So far we have worked with a few companies, their projects can be viewed in the portfolio section each with its own description.
+
+We offer up to par work that keeps our clients to come back for more.
+
+
 
 ## Behaviour Driven Development(BDD)
 
@@ -31,13 +43,13 @@ OUTPUT: "Thanks for being our client,your message has been received"
 ## Setup/Installation Requirements
 
 - Open terminal (CTRL ALT T)
-- git clone https:https://github.com/chepkiruibetty/delani-studio
+- git clone https://github.com/muli3203/DelaniStudio.git
 - cd delani-studio
 - use atom . or code . to open the clone repo on Atom or VS-code respectively
 
 ## Known Bugs
 
-My website is not quite responsive.
+My website is not responsive.
 
 ## Technologies Used
 
@@ -48,8 +60,8 @@ My website is not quite responsive.
 
 ## Support and contact details
 
-- My contacts:+254707240068
-- email:wendymunyasi@gmail.com
+- My contacts:+254758585227
+- email:muli3203@gmail.com
 
 ## Licence
 
