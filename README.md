@@ -52,7 +52,7 @@ OUTPUT: "Thanks for being our client,your message has been received"
 
 ## Known Bugs
 
-My website is not responsive.
+There are no known bugs.
 
 ## Technologies Used
 
