@@ -1,62 +1,60 @@
-$(document).ready(function() {
-    $(".design-hidden").click(function() {
+$(document).ready(function () {
+    $(".design-hidden").click(function () {
         $(".design-showing").toggle();
-        $(".design-hidden").toggle();    
+        $(".design-hidden").toggle();
     });
-    $(".design-showing").click(function() {
+    $(".design-showing").click(function () {
         $(".design-showing").toggle();
-        $(".design-hidden").toggle();    
+        $(".design-hidden").toggle();
     })
-    $(".dev-hidden").click(function() {
+    $(".dev-hidden").click(function () {
         $(".dev-showing").toggle();
-        $(".dev-hidden").toggle();    
+        $(".dev-hidden").toggle();
     });
-    $(".dev-showing").click(function() {
+    $(".dev-showing").click(function () {
         $(".dev-showing").toggle();
-        $(".dev-hidden").toggle();    
+        $(".dev-hidden").toggle();
     })
-    $(".prod-hidden").click(function() {
+    $(".prod-hidden").click(function () {
         $(".prod-showing").toggle();
-        $(".prod-hidden").toggle();    
+        $(".prod-hidden").toggle();
     });
-    $(".prod-showing").click(function() {
+    $(".prod-showing").click(function () {
         $(".prod-showing").toggle();
-        $(".prod-hidden").toggle();    
+        $(".prod-hidden").toggle();
     });
-// hover
+    // hover
 
-    $('#folio1').hover(function() {
+    $('#folio1').hover(function () {
         $('.overlay0').slideToggle();
     });
 
-    $('#folio2').hover(function() {
+    $('#folio2').hover(function () {
         $('.overlay1').slideToggle();
     });
 
-    $('#folio3').hover(function() {
+    $('#folio3').hover(function () {
         $('.overlay2').slideToggle();
     });
 
-    $('#folio4').hover(function() {
+    $('#folio4').hover(function () {
         $('.overlay3').slideToggle();
     });
 
-    $('#folio5').hover(function() {
+    $('#folio5').hover(function () {
         $('.overlay4').slideToggle();
     });
 
-    $('#folio6').hover(function() {
+    $('#folio6').hover(function () {
         $('.overlay5').slideToggle();
     });
 
-    $('#folio7').hover(function() {
+    $('#folio7').hover(function () {
         $('.overlay6').slideToggle();
     });
 
-    $('#folio8').hover(function() {
+    $('#folio8').hover(function () {
         $('.overlay7').slideToggle();
     });
-
-
 
 });
